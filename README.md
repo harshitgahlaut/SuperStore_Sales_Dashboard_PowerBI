@@ -1,4 +1,4 @@
-# 🚚 "SuperStore"Sales Dashboard
+# 🚚 "SuperStore" Sales Dashboard
 
 # 💡 Project Description
 
@@ -56,7 +56,7 @@ PowerBI
 - 📈 Created an interactive dashboard for online sales data tracking and analysis.
 - 🔍 Utilized complex parameters for in-depth analysis through worksheets, enhancing customization via filters and slicers.
 - 🔄 Established connections, incorporated new tables, and applied calculations to manipulate data, facilitating user-driven parameters for visualizations.
-- 📊 Employed various customized visualizations including bar charts, pie charts, donut charts, clustered bar charts, scatter charts, line charts, area charts, maps, and slicers for comprehensive insights.
+- 📊 Employed various customized visualizations including bar charts, pie charts, donut charts, clustered bar charts, scatter charts, line charts, treemap and slicers for comprehensive insights.
 - 🎯 Sales Forecasting
 
 # End
